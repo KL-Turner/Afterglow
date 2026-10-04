@@ -8,14 +8,22 @@ cursors, ROIs and their traces over time, projections, and motion correction.
 
 This repository holds the **installers and release notes** only.
 
+## Download
+
+- **Windows:** **[Afterglow-Setup-Windows.exe](https://github.com/KL-Turner/Afterglow/releases/latest/download/Afterglow-Setup-Windows.exe)**
+  (always the newest version)
+- **Mac (Apple silicon):** coming soon
+
+These links are all you need. The other files on the releases page are for Afterglow's automatic
+updates.
+
 ## Install on Windows
 
 You need Windows 10 or 11 (64-bit), an internet connection for the first install, and about 6 GB of
 free disk space for it (the MATLAB Runtime; the Setup checks). No MATLAB licence is needed.
 
-1. Open **[the latest release](https://github.com/KL-Turner/Afterglow/releases/latest)** and, under
-   *Assets*, download **`Afterglow-vNN.NN-win64-Setup.exe`** (the other files are for Afterglow's own
-   updates: you do not need them). The program is not signed, so the browser may hold the download:
+1. Download **[Afterglow-Setup-Windows.exe](https://github.com/KL-Turner/Afterglow/releases/latest/download/Afterglow-Setup-Windows.exe)**
+   (the link above). The program is not signed, so the browser may hold the download:
    - Edge: *"... isn't commonly downloaded"* -- point at the download, choose **...** > **Keep**, then
      **Show more** > **Keep anyway**.
    - Chrome: *"... may be dangerous"* or *"... is not commonly downloaded"* -- choose **Keep**.
